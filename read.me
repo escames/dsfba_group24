@@ -1,0 +1,1 @@
+Final report for the course Data Science in Business Analytics, in the fall semester of 2021 in the University of Lausanne (Switzerland). This was a group project developed with master students Ksenia Zakharova and Marcel Schenk.
